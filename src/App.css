@@ -1,0 +1,10 @@
+body {
+  background-color: beige;
+  /* Establece el fondo en beige */
+  margin: 0;
+  /* Elimina el margen por defecto */
+  padding: 20px;
+  /* Espaciado alrededor del contenido */
+  height: 100vh;
+  /* Asegura que el fondo cubra toda la altura de la ventana */
+}

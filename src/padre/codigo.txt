@@ -1,0 +1,11 @@
+import ComponenteA from './Componentea';
+import ComponenteB from './Componenteb';
+import ComponenteC from './Componentec';
+const App2 = () => 
+
+  <div>
+    <ComponenteA />
+    <ComponenteB />
+    <ComponenteC />
+  </div>
+  export default App2;
